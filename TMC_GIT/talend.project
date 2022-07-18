@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
-  <TalendProperties:Project xmi:id="_PRMwgQbSEe2kwrlPDdx2fA" label="TMC_GIT" description="Studio Project Linked to GIT" language="java" technicalLabel="TMC_GIT" author="_PRMwggbSEe2kwrlPDdx2fA" productVersion="Talend Cloud Data Management Platform-8.0.1.20211109_1610" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/suschatt/TMC_GIT.git&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DQ" bigData="false">
+  <TalendProperties:Project xmi:id="_PRMwgQbSEe2kwrlPDdx2fA" label="TMC_GIT" description="Studio Project Linked to GIT" language="java" technicalLabel="TMC_GIT" author="_PRMwggbSEe2kwrlPDdx2fA" productVersion="Talend Cloud Data Management Platform-8.0.1.20211109_1610" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/suschatt/TMC_GIT.git&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DQ" itemsRelationVersion="1.3" bigData="false">
     <migrationTask xmi:id="_PTcMMAbSEe2kwrlPDdx2fA" id="org.talend.repository.model.migration.CheckProductVersionMigrationTask" breaks="7.1.0" version="7.1.1"/>
   </TalendProperties:Project>
   <TalendProperties:User xmi:id="_PRMwggbSEe2kwrlPDdx2fA" login="garud48@trial40687.us.talend.com" firstName="Susmit" lastName="Chatterjee" type="DQ"/>
